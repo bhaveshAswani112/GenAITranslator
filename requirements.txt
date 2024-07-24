@@ -1,0 +1,12 @@
+langchain-core
+langchain-community
+langchain-groq
+langchain
+ipykernel
+python-dotenv
+fastapi
+uvicorn
+langsmith
+langserve
+sse_starlette
+pydantic==1.10.13
